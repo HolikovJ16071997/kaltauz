@@ -86,6 +86,16 @@ img{
     display: flex;
     justify-content: center;
 }
+.site-hiro__lit {
+    display: flex;
+    align-items: center;
+
+}
+.site-hiro__item:not(:last-child) {
+    margin-right: 40px;
+}
+.site-hiro__link {
+}
 
 .box-saerch{
     width: 600px;
